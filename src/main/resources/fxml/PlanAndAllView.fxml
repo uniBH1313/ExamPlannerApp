@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+
+<AnchorPane minHeight="-Infinity" minWidth="-Infinity" prefHeight="535.0" prefWidth="504.0" style="-fx-background-color: #0D1824;" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <Label alignment="TOP_CENTER" contentDisplay="TOP" layoutX="191.0" prefHeight="82.0" prefWidth="125.0" text="VAUVAUVAU" textAlignment="CENTER" textFill="WHITE">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </Label>
+      <Label alignment="BOTTOM_CENTER" contentDisplay="BOTTOM" layoutX="191.0" layoutY="452.0" prefHeight="82.0" prefWidth="125.0" text="VAUVAUVAU" textAlignment="CENTER" textFill="WHITE">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </Label>
+      <Label alignment="CENTER_RIGHT" contentDisplay="CENTER" layoutX="378.0" layoutY="185.0" prefHeight="82.0" prefWidth="125.0" text="VAUVAUVAU" textAlignment="CENTER" textFill="WHITE">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </Label>
+      <Label contentDisplay="CENTER" layoutY="185.0" prefHeight="82.0" prefWidth="125.0" text="VAUVAUVAU" textAlignment="CENTER" textFill="WHITE">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </Label>
+   </children>
+</AnchorPane>
